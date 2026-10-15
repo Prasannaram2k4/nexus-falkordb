@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Secret Environment Files
+.env
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+
+# Logs
+*.log
