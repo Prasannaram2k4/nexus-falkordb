@@ -1,12 +1,24 @@
+[README.md](https://github.com/user-attachments/files/33544799/README.md)
 # 🧠 NEXUS — FalkorDB Company Brain & Multi-Agent Context Engine
 
 > *"We've all been in that meeting where no one remembers why we chose Kafka. NEXUS was built so you never have to have that meeting again."*
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://nexus-falkordb.onrender.com)
 [![FalkorDB](https://img.shields.io/badge/FalkorDB-Graph%20Engine-FF3366?style=flat-square&logo=redis&logoColor=white)](https://falkordb.com)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-REST%20%2B%20WebUI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Tracks](https://img.shields.io/badge/Tracks-01%20%7C%2002%20%7C%2003-7928CA?style=flat-square)](#hackathon-tracks)
 [![Tests](https://img.shields.io/badge/Tests-20%20passing-22c55e?style=flat-square)](#tests)
+
+---
+
+## 🌐 Live Deployment
+
+Try NEXUS live right now in your browser without cloning or installing anything:
+
+- **🚀 Live Interactive Web UI**: **[https://nexus-falkordb.onrender.com](https://nexus-falkordb.onrender.com)**
+- **📑 Interactive Swagger API Docs**: **[https://nexus-falkordb.onrender.com/docs](https://nexus-falkordb.onrender.com/docs)**
+- **🩺 API Health & Engine Status**: **[https://nexus-falkordb.onrender.com/health](https://nexus-falkordb.onrender.com/health)**
 
 ---
 
@@ -119,7 +131,7 @@ NEXUS enters **all three tracks**:
 NEXUS ships with an embedded Cypher engine. No Docker, no account, no API keys needed:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nexus-falkordb
+git clone https://github.com/Prasannaram2k4/nexus-falkordb.git
 cd nexus-falkordb
 
 python3 -m venv .venv && source .venv/bin/activate
